@@ -54,5 +54,5 @@ The research in this project brings some benefits to the drivers to identify whi
 
 
 #### Useful links:
-- Here you will find the interactive dashboard on Tableau public. Link [Here](https://public.tableau.com/views/uberpickupsanddropoffs/PickhoursDash?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link),
+- [Here](https://public.tableau.com/views/uberpickupsanddropoffs/PickhoursDash?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)Here you will find the interactive dashboard on Tableau public.,
 - You can also check out my other school projects in my github repo [Here](https://github.com/Biruk-Buye?tab=repositories)
