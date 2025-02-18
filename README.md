@@ -49,7 +49,7 @@ The research in this project brings some benefits to the drivers to identify whi
 
 ## Acknowledgements
 - I would like to thank the uber driver who volunteer to share his detail data including the financial for this project to happen. 
-- I would also thank to Ironhack stuffs and the teachers for teaching me and my classmates all the skills we need for this project and for the job market.
+- I would also like to thank Ironhack stuffs and the teachers for teaching me and my classmates all the skills we need for this project and for the job market.
 - Last but not list, i would like to thank me for finishing the bootcamp successfully.
 
 
