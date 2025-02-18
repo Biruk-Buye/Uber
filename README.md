@@ -14,7 +14,7 @@ This project depicts in which area of Amsterdam Uber transport service have been
 The dataset i am using is from a volunteer uber driver who work mostly in Amsterdam and it’s surrounding area. He willingly share the data in a pdf format from his personal Uber’s account trips history. From a raw PDF data, i have created 720 rows and 15 columns. I choose sample data randomly from his completed trips from December 01, 2023 to January 31, 2024 from which the driver was 39 days active. 
 
 
-               Before							                    After
+               Before							             After
 
 ![IMG_2686](https://github.com/user-attachments/assets/9f12f835-8d5c-40e6-a816-f1dfcf7dbdd1)
 
