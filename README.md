@@ -15,7 +15,7 @@ The dataset i am using is from a volunteer uber driver who work mostly in Amster
 
 
 Before							After
-
+<img width="1206" alt="Screenshot 2024-12-14 at 12 55 38" src="https://github.com/user-attachments/assets/2a1cd919-04d2-4563-b5e8-f2b0e4879c96" />
 
 
 
