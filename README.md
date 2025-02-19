@@ -1,5 +1,5 @@
 # Uber’s most pickups and drop offs in Amsterdam.
-## About the project
+## Process
 This is a final project for Ironhack data analytics bootcamp. 
 
 I have managed the project using Kanban project management tool inside GitHub. Additionally, i have utilized Python to clean, format and transform the dataset. Further more, i did exploratory data analysis, basic statistics and machine learning using Python. 
@@ -9,7 +9,7 @@ Apart from Python, i have used AWS S3 buckets for data storage and Amazon Athena
 Finally, i have made a dashboard using Tableau public to showcase my findings. (the link will be found at the bottom of this page.)
 
 ## What the project does
-This project depicts in which area of Amsterdam Uber transport service have been largely requested by riders as well as most drop off areas.  This project also discover which day of the week is the best day for drivers to work and the pick hours for profit maximization.
+This project depicts in which area of Amsterdam Uber transport service have been largely requested by riders as well as most drop off locations by areas.  This project also discover which day of the week is the best day for drivers to work and the pick hours for profit maximization.
 ## Dataset
 The dataset i am using is from a volunteer uber driver who work mostly in Amsterdam and it’s surrounding area. He willingly share the data in a pdf format from his personal Uber’s account trips history. From a raw PDF data, i have created 720 rows and 15 columns. I choose sample data randomly from his completed trips from December 01, 2023 to January 31, 2024 from which the driver was 39 days active. 
 
